@@ -16,7 +16,7 @@ Este código requiere Python 3 y las siguientes bibliotecas de Python:
 
 1. Clona este repositorio en tu sistema local.
 2. Abre una terminal y navega hasta la carpeta del repositorio.
-3. Ejecuta el comando `python correccion.py` para iniciar el programa.
+3. Ejecuta el comando `python CP.py` para iniciar el programa.
 4. Introduce la oración que quieres corregir cuando se te solicite.
 5. El programa mostrará la oración original y la oración corregida, así como sugerencias para el uso correcto de preposiciones.
 
