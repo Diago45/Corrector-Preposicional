@@ -1,5 +1,3 @@
-A continuación, te proporciono un ejemplo de archivo README que podrías usar para describir el código que has compartido:
-
 # Corrección de oraciones y sugerencias de preposiciones
 
 Este código de Python utiliza la biblioteca LanguageTool para corregir errores gramaticales en una oración introducida por el usuario. Además, sugiere correcciones para el uso incorrecto de ciertas preposiciones comunes en español.
