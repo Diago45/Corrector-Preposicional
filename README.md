@@ -27,3 +27,5 @@ Este código utiliza la biblioteca LanguageTool para la corrección gramatical. 
 ## Contribuciones
 
 Si deseas contribuir a este proyecto, por favor, haz un fork del repositorio y envía tus cambios a través de una solicitud de extracción.
+
+También puedes acceder directamente al código fuente con este enlace de invitación: https://replit.com/join/eabibyctsk-ddiagob
